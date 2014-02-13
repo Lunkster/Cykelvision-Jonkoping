@@ -322,6 +322,35 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Objekt": "Cykelväg",
+        "Beskrivning": "Avdkiljd cykelbana i avvikande färg för att undvika gående på banan.",
+        "Länk": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.16909635066986,
+            57.784022024309536
+          ],
+          [
+            14.169064164161682,
+            57.783670262661126
+          ],
+          [
+            14.169112443923948,
+            57.782795133447145
+          ],
+          [
+            14.169241189956665,
+            57.78179700266645
+          ]
+        ]
+      }
     }
   ]
 }
