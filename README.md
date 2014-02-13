@@ -8,11 +8,13 @@ Redigera i karta
 
 Här kommer en beskrivning hur man redigerar i kartan och lägger till attribut.
 Första gången man ska redigera i kartan så behöver man:
-Skapa ett konto på GitHub, om du nu inte redan har ett.
 
-1. Ladda ned geojson.io Chrome-extension, vilket låter dig hantera GeoJSON-filer enkelt på geojson.io.
+1. Skapa ett konto på GitHub, om du nu inte redan har ett.
 
-2. För varje gång man vill göra en ändring så tar man ut en gaffling av projektet.
+2. Ladda ned geojson.io Chrome-extension, vilket låter dig hantera GeoJSON-filer enkelt på geojson.io.
+
+
+För varje gång man vill göra en ändring så tar man ut en gaffling av projektet.
 När du är inloggad på ditt GitHub-konto så klickar du på följande länk: Cykelvision-Jonkoping och klickar på knappen längst upp "Fork". En gaffling av ett repository skapar dig en egen kopia av det.
 
 3. Hoppa till github.com/[ditt användarnamn]/Cykelvision-Jonkoping. Du står nu i din egen kopia!
