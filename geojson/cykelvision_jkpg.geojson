@@ -221,16 +221,20 @@
             57.78073592220979
           ],
           [
-            14.163782894611359,
-            57.78089465725345
+            14.163651466369629,
+            57.78090466754813
           ],
           [
             14.160864651203156,
             57.78142090898305
           ],
           [
-            14.15861964225769,
-            57.781821312769736
+            14.158565998077393,
+            57.7818170227527
+          ],
+          [
+            14.157305359840393,
+            57.78205726292194
           ]
         ]
       }
@@ -357,7 +361,7 @@
       "properties": {
         "Objekt": "Cykelfil",
         "Beskrivning": "Tydlig cykelfil på gata",
-        "Länk": ""
+        "Länk": "http://streetmix.net/Lunkens/3/brunnsgatan-28"
       },
       "geometry": {
         "type": "LineString",
@@ -367,8 +371,50 @@
             57.782795133447145
           ],
           [
-            14.163587093353271,
-            57.78083316538241
+            14.157273173332213,
+            57.78199720302949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Objekt": "Cykelfil",
+        "Beskrivning": "Tydlig cykelfil i öst-västlig riktning. Får plats om man tar bort parkeringarna på sydsidan av gatan.",
+        "Länk": "http://streetmix.net/Lunkens/3/brunnsgatan-28"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.157299995422363,
+            57.782054402929305
+          ],
+          [
+            14.15286898612976,
+            57.78287521151181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Objekt": "Cykelfil",
+        "Beskrivning": "Tydlig cykelfil i väst-östlig riktning ända ned till Kyrkogårdsgatan",
+        "Länk": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.157278537750244,
+            57.78199148303451
+          ],
+          [
+            14.163592457771301,
+            57.780838885560875
           ]
         ]
       }
