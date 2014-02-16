@@ -167,8 +167,8 @@
       "type": "Feature",
       "properties": {
         "Objekt": "Streetmix",
-        "Länk": "http://streetmix.net/Lunkens/1/kungsgatan-1",
-        "Beskrivning": ""
+        "Länk": "http://streetmix.net/Lunkens/1/kungsgatan-14",
+        "Beskrivning": "Önskad fördelning av körfälten på Kungsgatan väster om korsningen med Klostergatan"
       },
       "geometry": {
         "type": "Point",
