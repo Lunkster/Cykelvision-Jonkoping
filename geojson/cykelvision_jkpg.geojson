@@ -361,7 +361,7 @@
       "properties": {
         "Objekt": "Cykelfil",
         "Beskrivning": "Tydlig cykelfil på gata",
-        "Länk": "http://streetmix.net/Lunkens/3/brunnsgatan-28"
+        "Länk": "http://streetmix.net/Lunkens/3/brunnsgatan-24"
       },
       "geometry": {
         "type": "LineString",
@@ -382,7 +382,7 @@
       "properties": {
         "Objekt": "Cykelfil",
         "Beskrivning": "Tydlig cykelfil i öst-västlig riktning. Får plats om man tar bort parkeringarna på sydsidan av gatan.",
-        "Länk": "http://streetmix.net/Lunkens/3/brunnsgatan-28"
+        "Länk": "http://streetmix.net/Lunkens/3/brunnsgatan-24"
       },
       "geometry": {
         "type": "LineString",
