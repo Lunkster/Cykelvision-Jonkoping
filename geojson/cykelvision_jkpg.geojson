@@ -439,6 +439,21 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Objekt": "Streetmix",
+        "Beskrivning": "Förslag till cykelfiler efter Brunnsgatan väster om Kapellgatan",
+        "Länk": "http://streetmix.net/Lunkens/1/kungsgatan-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.156613349914549,
+          57.78213734262311
+        ]
+      }
     }
   ]
 }
