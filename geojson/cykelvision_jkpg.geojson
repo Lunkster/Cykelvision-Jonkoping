@@ -351,6 +351,27 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Objekt": "Cykelfil",
+        "Beskrivning": "Tydlig cykelfil på gata",
+        "Länk": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.152826070785522,
+            57.782795133447145
+          ],
+          [
+            14.163587093353271,
+            57.78083316538241
+          ]
+        ]
+      }
     }
   ]
 }
