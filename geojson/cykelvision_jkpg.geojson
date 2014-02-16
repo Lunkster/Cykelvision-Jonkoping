@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Objekt": "Cykelväg",
+        "Objekt": "Cykelväg dubbel",
         "Beskrivning": "Separerad cykelväg genom det nya bostadsområdet och efter Munksjön.",
         "Länk": ""
       },
@@ -93,7 +93,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Objekt": "Cykelväg",
+        "Objekt": "Cykelväg dubbel",
         "Beskrivning": "Separerad cykelväg i båda riktningarna, avskild med kanter.",
         "Länk": ""
       },
@@ -181,7 +181,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Objekt": "Cykelväg",
+        "Objekt": "Cykelväg enkel",
         "Beskrivning": "Tydligt markerad cykelväg för att tydliggöra den för gående",
         "Länk": ""
       },
@@ -277,7 +277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Objekt": "Cykelväg",
+        "Objekt": "Cykelväg dubbel",
         "Beskrivning": "Avskild cykelbana från gångbana då höga hastigheter uppnås i backen",
         "Länk": ""
       },
@@ -330,7 +330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Objekt": "Cykelväg",
+        "Objekt": "Cykelväg dubbel",
         "Beskrivning": "Avdkiljd cykelbana i avvikande färg för att undvika gående på banan.",
         "Länk": ""
       },
@@ -415,6 +415,27 @@
           [
             14.163592457771301,
             57.780838885560875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Objekt": "Cykelväg enkel",
+        "Beskrivning": "Cykelbana på rätt sida så man slipper korsa Fabriksgatan och in på trång GC-väg utanför apoteket.",
+        "Länk": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.158056378364561,
+            57.779271522767914
+          ],
+          [
+            14.157584309577942,
+            57.778639410127695
           ]
         ]
       }
