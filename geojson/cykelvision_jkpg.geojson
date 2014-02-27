@@ -538,6 +538,64 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Objekt": "Cykelväg dubbel",
+        "Beskrivning": "Tydligare överfart från cykelbana till trottoar, som bör vara upphöjd och avgränsad då bilarna har in och utfart till parkeringen",
+        "Länk": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.165942072868345,
+            57.78040986966106
+          ],
+          [
+            14.166843295097351,
+            57.781791282639766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Objekt": "Cykelväg dubbel",
+        "Beskrivning": "Ordenlig förbindelse in och ut från busstorget",
+        "Länk": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.155025482177734,
+            57.78560919888246
+          ],
+          [
+            14.157160520553589,
+            57.78455680984303
+          ],
+          [
+            14.15864109992981,
+            57.78397340705004
+          ],
+          [
+            14.159059524536133,
+            57.78382469502636
+          ],
+          [
+            14.159789085388184,
+            57.78368170211825
+          ],
+          [
+            14.16211724281311,
+            57.783258439791
+          ]
+        ]
+      }
     }
   ]
 }
